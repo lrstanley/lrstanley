@@ -4,8 +4,7 @@ Hi, I'm Liam Stanley, and this is my GitHub profile where I frequently publish m
 of them can be beneficial to you, or others. If you like any projects, please give some of them a :star:, it would be
 much appreciated!
 
-* Take a look at my **website** [https://liam.sh](https://liam.sh). I have a handful of blog posts and similar content.
-There you'll find more details about me, along with papers & presentations about my projects and the work that I do.
+* Take a look at my **website** [https://liam.sh](https://liam.sh). I have a handful of blog posts & other random stuff.
 * Want to chat with me? I run a Discord server called [Bytecord](https://liam.sh/chat) (I used to run an IRC server
 called ByteIRC, however I'm less and less on IRC these days unfortunately). We talk about programming, technology,
 3d printers, games, etc. [Come check it out!](https://liam.sh/chat)
