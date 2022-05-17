@@ -1,7 +1,4 @@
-<p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lrstanley&theme=github_dark" width="62%">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lrstanley&theme=github_dark" width="30%">
-</p>
+![](./header.png)
 
 Hi, I'm Liam Stanley, and this is my GitHub profile where I frequently publish my open source projects. Hopefully some
 of them can be beneficial to you, or others. If you like any projects, please give some of them a :star:, it would be
@@ -12,7 +9,9 @@ much appreciated!
 3d printers, games, etc. [Chat with us!](https://liam.sh/chat)
 
 ----------------------------------------------------------------
+
 ### A note on archived repositories
+
 I have a lot of repositories that have been developed over the years, many of them are related to something I would be
 working on at the time, and I have transitioned to another tool or similar, or simply there wasn't enough desire from
 others to allow me to continue working on the projects/keeping it active. As such, I mark repositories as archived in
