@@ -1,4 +1,7 @@
-## Liam Stanley @ GitHub
+<p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lrstanley&theme=github_dark" width="62%">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lrstanley&theme=github_dark" width="30%">
+</p>
 
 Hi, I'm Liam Stanley, and this is my GitHub profile where I frequently publish my open source projects. Hopefully some
 of them can be beneficial to you, or others. If you like any projects, please give some of them a :star:, it would be
