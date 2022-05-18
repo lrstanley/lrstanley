@@ -1,4 +1,4 @@
-![](./header.png)
+[![header](./header.png)](https://liam.sh)
 
 Hi, I'm Liam Stanley, and this is my GitHub profile where I frequently publish my open source projects. Hopefully some
 of them can be beneficial to you, or others. If you like any projects, please give some of them a :star:, it would be
