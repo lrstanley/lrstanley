@@ -21,5 +21,5 @@ unarchive it**.
 
 ----------------------------------------------------------------
 
-![](https://github-readme-stats.vercel.app/api?username=lrstanley&count_private=true&show_icons=true&theme=dracula&custom_title=lrstanley%27s%20Github%20Stats&hide_border=true&hide_rank=true&card_width=450)
+![](https://github-readme-stats.vercel.app/api?username=lrstanley&count_private=true&show_icons=true&theme=dracula&custom_title=lrstanley%27s%20Github%20Stats&hide_border=true&hide_rank=true&card_width=350)
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=lrstanley&api_domain=wakapi.liam.sh&theme=dracula&custom_title=Last+30+Days&layout=compact&range=last_30_days&langs_count=8&hide_progress=true&hide_border=true)
