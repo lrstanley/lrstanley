@@ -52,6 +52,8 @@ Below are a few guidelines if you would like to contribute:
 
 
 
+
+
 ## :clipboard: References
 
    * [Open Source: How to Contribute](https://opensource.guide/how-to-contribute/)
@@ -64,8 +66,6 @@ Below are a few guidelines if you would like to contribute:
    * :link: Repository [License][license].
    * [Support][support]
    * [Code of Conduct][coc].
-
-
 
 <!-- definitions -->
 [coc]: https://github.com/lrstanley/lrstanley/blob/master/.github/CODE_OF_CONDUCT.md
