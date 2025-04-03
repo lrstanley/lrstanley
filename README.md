@@ -4,7 +4,7 @@
 hope some of them can be beneficial to you or others. If you like any projects, please give some of them
 a :star:, it would be much appreciated!
 
-- :earth_americas: Originally from Michigan, US, I am currently located in North Carolina, US.
+- :earth_americas: Originally from Michigan, US, I am currently located in Colorado, US.
 - :rocket: I am working on many projects, primarily revolving around tools to help improve the
   experience for other developers.
 - :link: Take a look at my personal website, [https://liam.sh](https://liam.sh).
